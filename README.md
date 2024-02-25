@@ -1,6 +1,4 @@
 # playWithMongoDB
-A project to play/learn mongoDB
-
 
 Created a application with REST APIs to store messages for a web chat application.
 
